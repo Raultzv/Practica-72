@@ -1,0 +1,26 @@
+body{ 
+    background-color:burlywood;
+}
+h1{
+    text-align: center;
+    font-size: 200%;
+    color: darkred;
+    font-family: arial;
+}
+p {
+    color:red;
+    font-size: 120%
+}
+h2.iz{
+    text-align: left;
+}
+h2.cen{
+    text-align: center
+}
+h2.der{
+    text-align: right
+}
+img {
+    width: 150px;
+    height: 100px;
+}
