@@ -13,6 +13,11 @@ p.carta {
    height: 40px;
     border-bottom: black 1px solid; 
 }
+h2.color{
+    font-size: 150%;
+    color: darkred;
+    font-family: arial;
+}
 h2.iz{
     text-align: left;
 }
